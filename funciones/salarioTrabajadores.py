@@ -36,7 +36,6 @@ salBruto= 0
 impuestos=0 
 salNeto= 0
 
-
 n= int(input("Cuantos empleados?: "))
 for i in range(1, n):
 	nombre= input("Nombre del empleado?: ")
